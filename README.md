@@ -22,8 +22,9 @@ A deep neural network's binary classification model is used in order to quanitfy
   The second step was adding another hidden layer with 20 neurons and a Relu activation function. 
   
   
-  
   Lastly, more epochs were added to the model from 50 to 100 epochs.
-
+  ![](/Resources/epochs.png)
+  
+  
 ## Summary
 Although, the neural network performs very well in complex and large datasets. Sometimes, it might be more efficient to perform simple models from supervised and unsupervised machine learning. For the projects next step, I would try to use the Random Forest Classifier with the current dataset and check if the results is the same or relatively similar. If so, I would use the Random Forest model to classify the low and high risk funding since it would be less complicated to read, and would take less time to run.  
