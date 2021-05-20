@@ -20,10 +20,10 @@ A deep neural network's binary classification model is used in order to quanitfy
   ![](/Resources/combination.png)
   
   The second step was adding another hidden layer with 20 neurons and a Relu activation function. 
-  ![](/Resources/hidden_layer.png)
+    ![](/Resources/hidden_layer.png)
   
   Lastly, more epochs were added to the model from 50 to 100 epochs.
-  ![](/Resources/epochs.png)
+    ![](/Resources/epochs.png)
   
   
 ## Summary
