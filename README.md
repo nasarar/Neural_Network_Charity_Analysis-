@@ -17,10 +17,10 @@ A deep neural network's binary classification model is used in order to quanitfy
   - There are 3 hidden layers towards the model with 80 neurons in the first layer, 40 neurons in the second layer, and lastly 20 neurons in the third layer.
   - The model was able to only reach 72% accuracy from the targetted 75%.
   - There are three big steps that was taken in order to increase the model performance. First, the dataset was cleared of more 'noise' and based on the testing, the 'SPECIAL_CONSIDERATIONS_N', and 'SPECIAL_CONSIDERATIONS_Y' columns made little to no difference on the model.
-  
+  ![](/Resources/combination.png)
   
   The second step was adding another hidden layer with 20 neurons and a Relu activation function. 
-  
+  ![](/Resources/hidden_layer.png)
   
   Lastly, more epochs were added to the model from 50 to 100 epochs.
   ![](/Resources/epochs.png)
